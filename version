@@ -1,1 +1,8 @@
-3.1.1
+program BrainFuck;
+{mode delphi}
+
+var penes;
+ writeln('?')
+begin
+
+// nvidia насрия мнея вя ротя
